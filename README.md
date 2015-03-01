@@ -10,9 +10,6 @@
 
 ## Files
  * bin/handler-eep
- *
- *
- *
 
 ## Usage
 
