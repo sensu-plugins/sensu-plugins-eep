@@ -11,10 +11,12 @@
 #   eep_client >= 1.0.0
 #
 
-require 'rubygems' if RUBY_VERSION < '1.9.0'
 require 'sensu-handler'
 require 'eep_client'
 
+#
+# Eep
+#
 class Eep < Sensu::Handler
   include EepClient::Const
 
@@ -51,7 +53,7 @@ class Eep < Sensu::Handler
     S_STATUS_CRITICAL => SEV_CRITICAL
   }
 
-  def handle
+  def handle # rubocop:disable all
     # get EEP client config
     config = settings[EEP]
     bail 'CONFIG ERROR: eep settings not found in sensu configuration files' unless config
