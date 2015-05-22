@@ -23,7 +23,9 @@ Gem::Specification.new do |s|
   s.license                = 'MIT'
   s.metadata               = { 'maintainer'         => '',
                                'development_status' => 'unmaintained',
-                               'production_status'  => 'unstable - testing recommended'
+                               'production_status'  => 'unstable - testing recommended',
+                               'release_draft'      => 'false',
+                               'release_prerelease' => 'false'
   }
   s.name                   = 'sensu-plugins-eep'
   s.platform               = Gem::Platform::RUBY
