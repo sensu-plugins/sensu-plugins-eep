@@ -1,6 +1,6 @@
 ## Sensu-Plugins-eep
 
-[![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-eep.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-eep)
+[ ![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-eep.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-eep)
 [![Gem Version](https://badge.fury.io/rb/sensu-plugins-eep.svg)](http://badge.fury.io/rb/sensu-plugins-eep)
 [![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-eep/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-eep)
 [![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-eep/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-eep)
