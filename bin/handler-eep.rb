@@ -53,7 +53,7 @@ class Eep < Sensu::Handler
     S_STATUS_CRITICAL => SEV_CRITICAL
   }
 
-  def handle # rubocop:disable all
+  def handle
     # get EEP client config
     config = settings[EEP]
     bail 'CONFIG ERROR: eep settings not found in sensu configuration files' unless config
