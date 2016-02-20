@@ -5,7 +5,6 @@
 [![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-eep/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-eep)
 [![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-eep/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-eep)
 [![Dependency Status](https://gemnasium.com/sensu-plugins/sensu-plugins-eep.svg)](https://gemnasium.com/sensu-plugins/sensu-plugins-eep)
-[ ![Codeship Status for sensu-plugins/sensu-plugins-eep](https://codeship.com/projects/5a5f3be0-db3a-0132-cb23-0eed4ec53b27/status?branch=master)](https://codeship.com/projects/79571)
 
 ## Functionality
 
